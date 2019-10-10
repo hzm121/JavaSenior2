@@ -16,6 +16,7 @@ public class demo {
         //创建一个excel
         HSSFWorkbook workbook = new HSSFWorkbook();
         HSSFSheet sheet = workbook.createSheet("sheet1");//新建sheet页
+        sheet.setDefaultColumnWidth(20);// 设置默认列宽
         HSSFRow firstRow = sheet.createRow(0);//新建一行
         //合并单元格
         CellRangeAddress range1 = new CellRangeAddress(0,3,0,4);
