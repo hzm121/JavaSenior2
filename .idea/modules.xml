@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExcelDemo/ExcelDemo.iml" filepath="$PROJECT_DIR$/ExcelDemo/ExcelDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcelWeb/ExcelWeb.iml" filepath="$PROJECT_DIR$/ExcelWeb/ExcelWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
     </modules>
   </component>

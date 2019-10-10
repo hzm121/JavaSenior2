@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ExcelWeb:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExcelWeb_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ExcelWeb/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
