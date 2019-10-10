@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExcelDemo/ExcelDemo.iml" filepath="$PROJECT_DIR$/ExcelDemo/ExcelDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+    </modules>
+  </component>
+</project>
